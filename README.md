@@ -21,8 +21,14 @@ This is a website I created for a fictional outdoor adventure company. The websi
 - Javascript
 - PHP
 
-### **Console Output**
-![Table](/assets/images/ScreenshotofAllAlgorithmResults.png)
+### **Homepage**
+![homepage](/assets/images/homepage.png)
 
-### **Results Graph**
-![Graph](/assets/images/GraphComparingAllAlgorithms.png)
+### **Login**
+![login](/assets/images/login.png)
+
+### **Book Tour**
+![book](/assets/images/book.png)
+
+### **Checkout**
+![checout](/assets/images/checkout.png)
